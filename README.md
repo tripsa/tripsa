@@ -1,3 +1,3 @@
 <div align="center">
-    <img src=https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Calavera&stroke=ff00dd&fontColor=ffccaa&reversal=false&strokeWidth=3 />
+    <img src=https://capsule-render.vercel.app/api?type=blur&height=650&color=gradient&text=CALAVERA&textBg=false&fontColor=000000&rotate=0&stroke=000000&strokeWidth=1&reversal=false />
 </div>
